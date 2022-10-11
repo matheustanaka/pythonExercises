@@ -1,0 +1,1 @@
+# Crie um dicionário cujas chaves são os meses do ano e os valores são a duração (em dias) de cada mês.
